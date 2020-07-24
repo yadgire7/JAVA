@@ -1,0 +1,33 @@
+GIT Repository
+------------------
+1. Create GITHUB Account
+2. Create GIT Repository
+3. intall GIT ( https://git-scm.com/ )
+4. Open GITBash command tool
+	pwd (current path)
+	cd c/Users/Chandan/JavaWebDev2020/CoreJavaProject
+	ls -a -l (to show all files)
+	
+	git init (to initialise git in your project, only one time)
+	
+	git add . or fileName
+	git status
+	git commit -m "this is our first commit to github"
+	git remote add origin https://github.com/ckjdelhi/WebDevelopmentMarch20.git
+	git push origin master
+	
+	
+	git status
+	git add .
+	git commit
+	git push
+	
+Clone git project
+------------------
+1. create folder
+2. git clone https://github.com/ckjdelhi/WebDevelopmentMarch20.git
+3. git checkout -b sowmyaBrach (to create new branch)
+4. git add .
+5. git status
+6. git commit -m"message"
+7. git push origin sowmyaBrach

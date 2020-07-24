@@ -1,0 +1,12 @@
+
+List(duplicate data)(I)
+	ArrayList(c): duplicate, insertion order, not sync, 
+	Vector(c): duplicate, insertion order, sync
+	LinkedList(c): duplicate, insertion order, not sync
+
+Set(no duplicate data)(I)
+	HashSet(c): no duplicate, not sync, unOrdered
+	LinkedHashSet(c): no duplicate, not sync, insertion order
+	TreeSet(c): no duplicate, not sync, sorted order
+
+Map(key-value pair)
